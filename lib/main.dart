@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:islami/Home/Home%20screen.dart';
 
@@ -19,4 +18,4 @@ class MyApp extends StatelessWidget {
       },
     );
   }
-
+}
